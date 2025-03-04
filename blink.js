@@ -497,12 +497,14 @@ function makefooter() {
             <div class="lwr">
             <p>© Blink Commerce Private Limited, 2016-2025</p>
             <h3>Download App</h3>
+            <div class="images">
             <img id="dnwl" src="New folder/images/aapstore.webp" />
             <img id="dnwl" src="New folder/images/googlepay.webp" />
             <img src="New folder/images/facebook-circle-fill.svg" />
             <img src="New folder/images/instagram-line.svg" />
             <img src="New folder/images/linkedin-box-fill.svg" />
             <img src="New folder/images/twitter-line.svg" />
+            </div>
             </div>
         </div>
 

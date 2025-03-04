@@ -417,4 +417,26 @@ padding: 7px;
         display: grid;
         grid-template-columns: 1fr 1fr;
     }
+    .threebanner {
+        display: flex;
+        gap: 20px;
+        margin-top: 2vh;
+        margin: 0px;
+        flex-direction: column;
+    }
+    .cotain{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 0px;
+    }
+    .lwr {
+        flex-direction: column;
+        gap: 0px;
+    }
+    .threebanner img {
+        width: 100%;
+    }
+    .images{
+        display: flex;
+    }
 }
